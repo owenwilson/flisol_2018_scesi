@@ -76,8 +76,6 @@ header nav ul li a:hover {
 
 /* Texto Inicial */
 .texto {
-	border-radius: 50px;
-	border: 2px solid #73AD21;
 	padding:200px 0;
 	text-align: center;
 	color:#fff;
