@@ -6,7 +6,8 @@ $(document).ready(function(){
 
     particlesJS('particles-js', {
       particles: {
-        color: '#fff',
+        //color: '#fff',
+        color: '#f7c514',
         shape: 'circle', // "circle", "edge" or "triangle"
         opacity: 1,
         size: 4,
@@ -15,7 +16,8 @@ $(document).ready(function(){
         line_linked: {
           enable_auto: true,
           distance: 100,
-          color: '#fff',
+          //color: '#fff',
+          color: '#fff500',
           opacity: 1,
           width: 1,
           condensed_mode: {
@@ -51,5 +53,5 @@ $(document).ready(function(){
       retina_detect: true
     });
   }
-  
+
 });
